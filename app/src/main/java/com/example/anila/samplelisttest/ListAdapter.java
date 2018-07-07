@@ -1,5 +1,5 @@
+// Dont need to use this custom ListAdapter because it only shows a textview,so inoreder to show texts ArrayAdapter is enough
 package com.example.anila.samplelisttest;
-
 import android.content.Context;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
